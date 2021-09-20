@@ -46,7 +46,7 @@ termux-setup-storage.
    $ git clone https://github.com/BlackxFOX/FOX-Basic 
    ```
    ```
-   $ cd vppbasic 
+   $ cd FOX-Basic 
    ```
    ```
    $ ls
