@@ -43,7 +43,7 @@ termux-setup-storage.
    $ apt install python 
    ```
    ```
-   $ git clone https://github.com/vpphacker/vppbasic
+   $ git clone https://github.com/BlackxFOX/FOX-Basic 
    ```
    ```
    $ cd vppbasic 
@@ -58,7 +58,7 @@ termux-setup-storage.
    $ ls
    ```
    ```
-   $ python vppbasic.py
+   $ python FOX-Basic.py
 ```
 
 This will take too much time it's depends on your data connection. 
